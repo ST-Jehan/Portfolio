@@ -10,7 +10,7 @@ I focus on writing clean, maintainable code and building solutions that deliver 
 
 ### 1. AccuMarket (Crypto Investment Platform)
 🔗 Live Demo: https://accumarket.org/  
-💻 GitHub: https://github.com/st-jehan/accumarket-platform  
+
 
 A web-based cryptocurrency investment platform that allows users to invest, track earnings, and manage transactions.
 
@@ -24,7 +24,7 @@ A web-based cryptocurrency investment platform that allows users to invest, trac
 
 ### 2. Apexciti Finance
 🔗 Live Demo: https://apexciti.finance/  
-💻 GitHub: https://github.com/st-jehan/apexciti-finance  
+
 
 A financial platform for managing digital investments with a clean dashboard and structured backend logic.
 
@@ -38,7 +38,7 @@ A financial platform for managing digital investments with a clean dashboard and
 
 ### 3. CyroGallery (Art Platform)
 🔗 Live Demo: https://cyrogallery.art/  
-💻 GitHub: https://github.com/st-jehan/cyrogallery  
+
 
 A modern digital art platform focused on clean UI and smooth user experience.
 
