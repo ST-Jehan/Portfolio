@@ -1,4 +1,4 @@
-# 👋 Hi, I'm John Ofili
+#  Hi, I'm John Ofili
 
 I am a PHP Developer focused on building fast, secure, and scalable web applications. I specialize in backend development using PHP and MySQL, with experience creating financial platforms, dashboards, and dynamic web systems.
 
@@ -85,4 +85,4 @@ A modern digital art platform focused on clean UI and smooth user experience.
 
 ---
 
-⭐ Feel free to explore my projects and reach out if you'd like to collaborate!
+ Feel free to explore my projects and reach out if you'd like to collaborate!
